@@ -98,7 +98,7 @@ while run:
         q1 += 10
 
     if q1 > 145:
-        time.sleep(1)
+        time.sleep(2)
         restart = True
 
     scatter.insert(0, (x, y))

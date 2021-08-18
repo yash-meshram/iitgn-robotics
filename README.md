@@ -8,3 +8,10 @@ Please collaborate within your groups but either keep your working codes private
 Once committed, everybody's code is visible to everybody else. In subsequent submissions, use of ideas from each other's codes from previous submission (which has become public) is permitted.
 
 Each submission will be created as a separate branch.
+
+
+## Version
+Python version: 3.8.8\
+pygame version: 2.0.1\
+
+
