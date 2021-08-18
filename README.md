@@ -12,7 +12,9 @@ Each submission will be created as a separate branch.
 
 ## Version
 Python version: 3.8.8\
-pygame version: 2.0.1
+pygame version: 2.0.1\
+\
+check_version.py : run this file to check your python and pygame version
 
 ## File purpose
 1. task0.pdf : Contains all the theory
